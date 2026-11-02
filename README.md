@@ -1,3 +1,7 @@
+# VueFlix
+
+Netflix-style streaming UI built with Vue.js and Firebase authentication.
+
 
 ## Configuration
 
@@ -72,3 +76,10 @@ Set these environment variables in the Vercel project settings (see `.env.exampl
 - `VUE_APP_FIREBASE_PROJECT_ID`
 - `VUE_APP_FIREBASE_STORAGE_BUCKET`
 - `VUE_APP_TMDB_API_KEY`
+
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
