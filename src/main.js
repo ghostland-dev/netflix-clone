@@ -2,7 +2,7 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router/index";
 import { store } from "./store/index";
-import * as firebase from 'firebase';
+import firebase from 'firebase';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { actions } from "./helpers/constants";
 import './index.scss';

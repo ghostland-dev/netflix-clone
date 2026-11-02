@@ -1,4 +1,4 @@
-import * as firebase from "firebase";
+import firebase from 'firebase';
 import router from '../../router/index';
 import { routes, actions } from '../../helpers/constants';
 
