@@ -56,3 +56,19 @@ npm run serve
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
  
  
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Fnetflix-clone)
+
+Click the button to deploy your own copy on Vercel in one step.
+
+Set these environment variables in the Vercel project settings (see `.env.example`):
+
+- `VUE_APP_FIREBASE_API_KEY`
+- `VUE_APP_FIREBASE_APP_ID`
+- `VUE_APP_FIREBASE_AUTH_DOMAIN`
+- `VUE_APP_FIREBASE_MESSAGING_SENDER_ID`
+- `VUE_APP_FIREBASE_PROJECT_ID`
+- `VUE_APP_FIREBASE_STORAGE_BUCKET`
+- `VUE_APP_TMDB_API_KEY`
